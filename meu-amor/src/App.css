@@ -1,0 +1,11 @@
+/* App specific styles */
+
+/* Fonte serif para títulos */
+.font-serif {
+  font-family: 'Playfair Display', Georgia, serif;
+}
+
+/* Seleção de texto com cor rosa */
+::selection {
+  background-color: #fecdd3;
+}
