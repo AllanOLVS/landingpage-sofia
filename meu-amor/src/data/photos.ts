@@ -24,7 +24,6 @@ import foto18 from '../assets/marquinhos018.jpeg';
 import foto19 from '../assets/marquinhos019.jpeg';
 import foto20 from '../assets/marquinhos020.jpeg';
 import foto21 from '../assets/marquinhos021.jpeg';
-import foto22 from '../assets/marquinhos022.jpeg';
 
 export const PHOTOS = [
     foto1,
@@ -48,5 +47,5 @@ export const PHOTOS = [
     foto19,
     foto20,
     foto21,
-    foto22,
+
 ];
