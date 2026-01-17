@@ -23,8 +23,8 @@ Ass: MARCUS`
     {
     id: 2,
     title: "Feliz Aniversário, Meu Amor",
-    date: "Hoje",
-    preview: "Hoje o mundo fica mais bonito...",
+    date: "23 de Agosto 2025",
+    preview: "Aniversário da minha felicidade",
     content: `Meu Amor, minha Sofia
 
 Hoje o mundo fica mais bonito, porque é o seu dia. Desde que você entrou na minha vida, tudo ganhou mais cor, mais sentido e mais amor. Mesmo com a distância, você está presente em mim o tempo todo. Seu jeito doce, seu sorriso, sua força e sua paz me encantam mais a cada dia.
