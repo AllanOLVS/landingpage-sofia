@@ -11,7 +11,7 @@ export const TEXTS: TextItem[] = [
     },
     {
         id: 2,
-        title: "Sobre seu sorriso",
+        title: "porra",
         date: "25 de Dezembro",
         preview: "Seu sorriso é, sem dúvida, a minha curva favorita...",
         content: "Sempre que você sorri, o mundo parece ficar um pouco mais leve. É incrível como você consegue iluminar qualquer ambiente. Eu faço qualquer coisa só para ver esse sorriso aparecer no seu rosto todos os dias."
