@@ -21,12 +21,22 @@ TE AMO
 Ass: MARCUS`
     },
     {
-        id: 2,
-        title: "porra",
-        date: "25 de Dezembro",
-        preview: "Seu sorriso é, sem dúvida, a minha curva favorita...",
-        content: "Sempre que você sorri, o mundo parece ficar um pouco mais leve. É incrível como você consegue iluminar qualquer ambiente. Eu faço qualquer coisa só para ver esse sorriso aparecer no seu rosto todos os dias."
-    },
+    id: 2,
+    title: "Feliz Aniversário, Meu Amor",
+    date: "Hoje",
+    preview: "Hoje o mundo fica mais bonito...",
+    content: `Meu Amor, minha Sofia
+
+Hoje o mundo fica mais bonito, porque é o seu dia. Desde que você entrou na minha vida, tudo ganhou mais cor, mais sentido e mais amor. Mesmo com a distância, você está presente em mim o tempo todo. Seu jeito doce, seu sorriso, sua força e sua paz me encantam mais a cada dia.
+
+Quero que esse novo ano traga tudo de bom para você: saúde, alegria, conquistas e muitos momentos nossos. Você merece o melhor da vida e eu vou estar aqui para te lembrar disso sempre!
+
+Feliz Aniversário, meu amor! Te amo demais.
+
+Com carinho,
+Marcus`
+},
+
     {
         id: 3,
         title: "Nossos planos",
