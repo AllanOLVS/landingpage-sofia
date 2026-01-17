@@ -4,10 +4,21 @@ import { TextItem } from '../types';
 export const TEXTS: TextItem[] = [
     {
         id: 1,
-        title: "O dia que te conheci",
-        date: "12 de Outubro",
-        preview: "Nunca imaginei que um simples olhar mudaria tudo...",
-        content: "Lembro exatamente da roupa que você usava e do jeito que sorriu. Naquele momento, eu não sabia, mas minha vida estava prestes a ficar muito mais colorida. Cada detalhe daquele dia está gravado na minha memória como o início do meu filme favorito."
+        title: "Primeira Carta para o Amor da minha vida",
+        date: "16 de Agosto 2025",
+        preview: "O pedido de namoro",
+        content: `Minha Sofia Rodrigues Mascarenhas Macedo,
+Desde aquele dia mágico no SJ de Cruz, no dia 25 de Junho, quando te vi pela primeira vez... algo dentro de mim mudou. Foi ali, naquela primeira conversa, que meu coração decidiu: "É ela!".
+
+Mesmo com a distância entre nós, você faz parte do meu dia todos os dias. Nossas chamadas de vídeo amenizam um pouco a saudade, mas não mentirei: sinto sua falta o tempo todo. A sua risada, seu olhar, seu jeitinho doce de falar comigo, tudo em você me encanta.
+
+Já nos vimos poucas vezes, mas cada encontro foi tão intenso, tão cheio de carinho e sentimento, que parece que te conheço há anos. É tão louco pensar que em tão pouco tempo eu já tenho certeza: é com você que eu quero viver todos os meus dias.
+
+Sofia, eu te amo. Amo seu jeito, sua beleza, que por dentro e por fora, e amo, principalmente, a paz e a felicidade que você trouxe para a minha vida. Você é um presente que o destino me deu, e eu não poderia estar mais grato por isso.
+
+TE AMO
+
+Ass: MARCUS`
     },
     {
         id: 2,
@@ -32,7 +43,7 @@ export const TEXTS: TextItem[] = [
     },
     {
         id: 5,
-        title: "Feliz Aniversário, Amor",
+        title: "Aniversário, Amor",
         date: "Hoje",
         preview: "Hoje é o seu dia, mas o presente é meu...",
         content: "Parabéns, meu amor! Que esse novo ciclo seja repleto de luz, conquistas e muito amor. Você merece o mundo inteiro, mas como não posso dar ele, te dou meu coração inteiro. Te amo infinitamente!"
