@@ -30,4 +30,11 @@ export const TEXTS: TextItem[] = [
         preview: "Hoje é o seu dia, mas o presente é meu...",
         content: "Parabéns, meu amor! Que esse novo ciclo seja repleto de luz, conquistas e muito amor. Você merece o mundo inteiro, mas como não posso dar ele, te dou meu coração inteiro. Te amo infinitamente!"
     }
+    {
+        id: 5,
+        title: "Feliz Aniversário, Amor",
+        date: "Hoje",
+        preview: "Hoje é o seu dia, mas o presente é meu...",
+        content: "Parabéns, meu amor! Que esse novo ciclo seja repleto de luz, conquistas e muito amor. Você merece o mundo inteiro, mas como não posso dar ele, te dou meu coração inteiro. Te amo infinitamente!"
+    }
 ];
