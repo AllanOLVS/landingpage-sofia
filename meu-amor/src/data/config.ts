@@ -4,7 +4,7 @@ export const SPOTIFY_LINK = "https://open.spotify.com/playlist/37i9dQZF1DXcBWIGo
 
 // Personalize aqui
 export const CONFIG = {
-    siteName: "Para o meu grande amor",
-    subtitle: "Preparei este cantinho especial para celebrar você e o nosso amor.",
+    siteName: "Sofia Dona do Meu Coração",
+    subtitle: "Sofia e Marcus",
     footerMessage: "Feito com todo amor do mundo ❤️",
 };
