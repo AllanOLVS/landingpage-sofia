@@ -39,9 +39,9 @@ Marcus`
 
    {
     id: 3,
-    title: "Nossos planos",
-    date: "01 de Janeiro",
-    preview: "Tenho tantos sonhos para nós dois...",
+    title: "Vou sentir saudades",
+    date: "19 de Janeiro 2026",
+    preview: "Eu te amo hoje, te amarei amanhã e em todos os dias que ainda vamos viver juntos.",
     content: `Minha Sofia, meu amor,
 A cada dia que passa eu me vejo ainda mais apaixonado por você. É um sentimento que cresce, amadurece e me dá cada vez mais certeza de uma coisa: o meu maior sonho hoje é construir uma família ao seu lado, viver uma vida inteira com você.
 
