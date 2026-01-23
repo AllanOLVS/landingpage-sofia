@@ -39,7 +39,7 @@ Marcus`
 
    {
     id: 3,
-    title: "Vou sentir saudades",
+    title: "Essa distância não é nada perto do que sinto por você.",
     date: "19 de Janeiro 2026",
     preview: "Eu te amo hoje, te amarei amanhã e em todos os dias que ainda vamos viver juntos.",
     content: `Minha Sofia, meu amor,
