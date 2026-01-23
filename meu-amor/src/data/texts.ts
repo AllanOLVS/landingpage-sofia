@@ -37,25 +37,26 @@ Com carinho,
 Marcus`
 },
 
-    {
-        id: 3,
-        title: "Nossos planos",
-        date: "01 de Janeiro",
-        preview: "Tenho tantos sonhos para nós dois...",
-        content: "Quero viajar o mundo com você, quero construir nossa casa, quero adotar cachorros e, principalmente, quero envelhecer ao seu lado. O futuro me assusta menos quando sei que você estará lá segurando minha mão."
-    },
-    {
-        id: 4,
-        title: "Feliz Aniversário, Amor",
-        date: "Hoje",
-        preview: "Hoje é o seu dia, mas o presente é meu...",
-        content: "Parabéns, meu amor! Que esse novo ciclo seja repleto de luz, conquistas e muito amor. Você merece o mundo inteiro, mas como não posso dar ele, te dou meu coração inteiro. Te amo infinitamente!"
-    },
-    {
-        id: 5,
-        title: "Aniversário, Amor",
-        date: "Hoje",
-        preview: "Hoje é o seu dia, mas o presente é meu...",
-        content: "Parabéns, meu amor! Que esse novo ciclo seja repleto de luz, conquistas e muito amor. Você merece o mundo inteiro, mas como não posso dar ele, te dou meu coração inteiro. Te amo infinitamente!"
-    }
+   {
+    id: 3,
+    title: "Nossos planos",
+    date: "01 de Janeiro",
+    preview: "Tenho tantos sonhos para nós dois...",
+    content: `Minha Sofia, meu amor,
+A cada dia que passa eu me vejo ainda mais apaixonado por você. É um sentimento que cresce, amadurece e me dá cada vez mais certeza de uma coisa: o meu maior sonho hoje é construir uma família ao seu lado, viver uma vida inteira com você.
+
+Tudo o que já vivemos juntos mora no meu coração. As nossas experiências, as viagens, a praia, Morro de São Paulo, Lençóis… cada momento foi especial, leve e cheio de amor. São lembranças que me fazem sorrir e que me mostram o quanto somos felizes quando estamos juntos.
+
+Confesso que vou morrer de saudades. A distância vai aumentar, sei disso. Você vai morar em São Paulo por quatro anos para correr atrás do seu sonho na faculdade de Moda, e meu coração já sente o aperto. Mas, acima de qualquer saudade, existe o meu orgulho por você. Você precisa ir, crescer, viver seus sonhos, e eu estarei aqui, sempre, te apoiando, te aplaudindo e te amando.
+
+Essa distância não é nada perto do que sinto por você. O meu amor é infinitamente maior do que qualquer quilômetro, qualquer ausência ou qualquer desafio. Onde quer que você esteja, meu coração sempre vai estar com você, cuidando, protegendo e esperando.
+
+Você é o meu amor, o meu porto seguro, a pessoa com quem eu quero dividir a vida, os sonhos, os planos e o futuro. Nada muda isso. Nada diminui o que sinto. Pelo contrário: só fortalece.
+
+Eu te amo hoje, te amarei amanhã e em todos os dias que ainda vamos viver juntos.
+
+Com todo o meu amor,
+Marcus`
+}
+
 ];
